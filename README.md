@@ -156,7 +156,7 @@ They offer a structured way to track progress and document your software’s dev
 ```bash
 1. git checkout dev or main (which have you latest tested code)
 2. git tag -a v1.0.0 -m "Stable-Thu-31-Oct-2024-2:32Pm"
-
+2a. git push origin <speific tage version>
 Now you have get a latest snapshot that is tag v1.0.0 which is now released as well
 
 Now in which branch you need to push or uptde with for instance **production**
