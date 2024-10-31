@@ -2,7 +2,7 @@
 Working with GitHub Tags and Releases
 
 
-# Git Tagging Guide
+# Git Tags Guide
 
 Git tags are a useful way to mark specific points in your project’s history. There are two types of tags: **Annotated Tags** and **Lightweight Tags**. Annotated tags are recommended when you need additional metadata, such as a message and author information.
 
@@ -46,4 +46,4 @@ Where n3 means show 3 number of lines in the message
 
 ```
 
-# Git Tagging Guide
+# Git Releases Guide
