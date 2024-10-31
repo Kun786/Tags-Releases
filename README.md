@@ -43,3 +43,7 @@ v1.1            Release version 1.1
 v1.2            Release version 1.2
 
 Where n3 means show 3 number of lines in the message
+
+```
+
+# Git Tagging Guide
